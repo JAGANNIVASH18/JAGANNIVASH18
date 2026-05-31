@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=5000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=900&repeat=true&lines=%E2%9A%A0%EF%B8%8F+Scroll+Down+at+Your+Own+Risk+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+
 
 ###
 
